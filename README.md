@@ -1,5 +1,7 @@
 This is Pasupuleti Mukthasree
 
+This project runs on maven architecture
+
 Spring Version : 3.3.0
 Lombok Version : 1.18.30
 
